@@ -74,11 +74,11 @@ A full-stack SaaS platform (MERN) that uses Generative AI to turn plain text pro
  
 <h3 align="center">💻 Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,go" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,js,go" />
 </p>
 <h3 align="center">🎨 Frontend</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 <h3 align="center">⚙️ Backend & Database</h3>
 <p align="center">
