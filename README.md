@@ -86,7 +86,7 @@ A full-stack SaaS platform (MERN) that uses Generative AI to turn plain text pro
 </p>
 <h3 align="center">☁️ Cloud & DevOps</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,firebase,docker,kubernetes,git,githubactions,postman,vercel,nginx" />
+  <img src="https://skillicons.dev/icons?i=aws,firebase,docker,kubernetes,git,postman,vercel,nginx" />
 </p>
 <h3 align="center">🤖 AI / ML</h3>
 <p align="center">
